@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# 修改Time-moe进行负荷预测：
+下面是原Repo README：
+
+
 # time-moe-modified-for-load-prediction
 使用time-moe对负荷进行预测
 =======
